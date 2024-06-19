@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100x;
+    background-image: url("../image/Home.jpeg");
+    background-position: center;
+    background-size: cover;
+    height:1470px;
+    overflow:hidden;
+}
+
+.navbar{ 
+    height: 100px;
+    margin: auto;
+    background-color:black;
+    opacity:0.8; 
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: red;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 30px;
+}
+
+.menu{
+    color:azure;
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: 14px;
+    Text-align:center;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: red;
+}
+
+.login{
+    width: 330px;
+    float: right;
+    margin-left:100px;
+}
+
+.register{
+    width: 330px;
+    float: left;
+    margin-left:100px;
+}
+
+.hbtn{
+    width: 100px;
+    height: 40px;
+    background: red;
+    border: 2px solid red;
+    margin-top: 25px;
+    color: white;
+    font-size: 15px;
+    border-bottom-right-radius: 10px;    
+}
+
+.help{
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 100px;
+    background-color: black;
+    border-radius: 8px;
+    box-shadow: 0cqmax;
+    opacity:0.8; 
+}
+
+.top{
+    font-size: 100px;
+    margin-top: auto;
+    color: red;
+    text-align: center;
+}
+
+#p1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-style: initial;
+}
+
+.button{
+    display: inline-block;
+    padding: 30px 30px;
+    margin: 20px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: black;
+}
+
+.about{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-style: oblique;
+    color: black;
+}
+
+.aboutus{
+    margin-right: 20px;
+}
+
+.footerr{
+    text-align: center;
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
