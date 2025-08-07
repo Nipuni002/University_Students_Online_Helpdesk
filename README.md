@@ -1,4 +1,4 @@
-#🎓 Online University Student Helpdesk System
+🎓 Online University Student Helpdesk System
 
 The Online University Student Helpdesk is a web-based support system built to assist students with academic and administrative queries while providing a centralized platform for accessing important resources. Developed using HTML, CSS, JavaScript, PHP, and phpMyAdmin, the system is designed to streamline communication between students and faculty, and improve access to information within the university ecosystem.
 
